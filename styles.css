@@ -1,0 +1,12 @@
+/* Button style */
+.custom-button {
+    -fx-background-color: #3498db; /* Button background color */
+    -fx-text-fill: white; /* Text color */
+    -fx-font-size: 14px; /* Font size */
+    -fx-padding: 10px 20px; /* Padding */
+}
+
+/* Button hover style */
+.custom-button:hover {
+    -fx-background-color: #2980b9; /* Hover color */
+}
